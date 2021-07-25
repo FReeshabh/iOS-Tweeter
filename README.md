@@ -21,7 +21,11 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories. Multiple GIFs because I couldn't capture all the functionality in one GIF:
 
 <img src='https://s6.gifyu.com/images/ezgif-2-827df2121294.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://s6.gifyu.com/images/Twitter1Demo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://s6.gifyu.com/images/Twitter1Demo3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
