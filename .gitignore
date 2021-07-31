@@ -6,6 +6,7 @@
 .DS_Store/
 build/
 DerivedData/
+Pods/
 
 ## Various settings
 *.pbxuser
