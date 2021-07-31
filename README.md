@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 It's an MP4 File isntead of a GIF, so please click on the link
 
-<img src='https://i.imgur.com/vYdjUIS.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s6.gifyu.com/images/Tweetert2.md.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Project 3 - *Tweeter*
